@@ -1,11 +1,23 @@
-# Dwitter_Social_Network
+# Dwitter Social Network
 
 Dwitter - Your tiny social network built with Django This web app models the basic functionality of Twitter.  
-You can:  
+You can:
+
 - Post short text-based messages
 - View all users on the platform
 - Follow and unfollow other users
 - Inspect a feed of messages from users that you follow
+
+## Prerequisites
+
+To complete this tutorial series, you should be comfortable with the following concepts:
+
+- Using object-oriented programming in Python
+- Setting up a basic Django project
+- Managing routing and redirects, view functions, templates, models, and migrations in Django
+- Using and customizing the Django admin interface
+- Reading and writing HTML with class attributes
+
 ## Setup
 
 You can run the provided example project on your local machine by following the steps outlined below.
@@ -49,4 +61,5 @@ Run the Django development server:
 (venv) $ python manage.py runserver
 ```
 
-Navigate to `http://localhost:8000/admin` and log in with your superuser credentials. You can create users through the Django admin and explore your social media platform with multiple users.
+Navigate to `http://localhost:8000/admin` and log in with your superuser credentials.
+You can create users through the Django admin and explore your social media platform with multiple users.
