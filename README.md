@@ -112,25 +112,25 @@ This project is part of a tutorial series that teaches you how to build a social
 You’ll implement the project in a series of steps spread out over four parts.
 There’s a lot to cover, and you’ll go into detail along the way:
 
-## 📍 Part 1: Models and Relationships
+### 📍 Part 1: Models and Relationships
 
 - Step 1: Set Up the Base Project
 - Step 2: Extend the Django User Model
 - Step 3: Implement a Post-Save Hook
 
-## ⏭ Part 2: Templates and Front-End Styling
+### ⏭ Part 2: Templates and Front-End Styling
 
 - Step 4: Create a Base Template With Bulma
 - Step 5: List All User Profiles
 - Step 6: Access Individual Profile Pages
 
-## ⏭ Part 3: Follows and Dweets
+### ⏭ Part 3: Follows and Dweets
 
 - Step 7: Follow and Unfollow Other Profiles
 - Step 8: Create the Back-End Logic For Dweets
 - Step 9: Display Dweets on the Front End
 
-## ⏭ Part 4: Forms and Submissions
+### ⏭ Part 4: Forms and Submissions
 
 - Step 10: Submit Dweets Through a Django Form
 - Step 11: Prevent Double Submissions and Handle Errors
